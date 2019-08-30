@@ -7,6 +7,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
+    "axios": "^0.19.0",
     "markov-strings": "^2.1.0"
   },
   "devDependencies": {
