@@ -1,0 +1,17 @@
+{
+  "name": "bolso-bot-api",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/gabrielcarneiro97/bolso-bot-api",
+  "author": "Gabriel Carneiro <gabriel.carneiro97@live.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "markov-strings": "^2.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.2.2",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  }
+}
